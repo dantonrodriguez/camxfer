@@ -10,7 +10,8 @@ if len(sys.argv) < 2:
 	exit()
 
 canon = False
-fuji = False
+fuji101 = False
+fuji102 = False
 test = False
 
 if sys.argv[1] == "canon":
