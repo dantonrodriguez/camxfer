@@ -24,7 +24,7 @@ if sys.argv[1] == "fuji102":
 # build list of local jpegs
 file_list  = os.listdir(os.getcwd())
 fuji_path_101 = "/Volumes/EOS_DIGITAL/DCIM/101_FUJI/"
-fuji_path_202 = "/Volumes/EOS_DIGITAL/DCIM/102_FUJI/"
+fuji_path_102 = "/Volumes/EOS_DIGITAL/DCIM/102_FUJI/"
 fuji_ext = ".RAF"
 canon_path = "/Volumes/EOS_DIGITAL/DCIM/100CANON/"
 canon_ext = ".CR3"
