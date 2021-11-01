@@ -58,7 +58,7 @@ if canon:
 #if test:
 #	path = test_path
 #	ext = test_ext
-if not (fuji or canon or test):
+if not (fuji101 or fuji102 or canon or test):
 	print("\nPlease type: 'python copy_pics.py fuji' or 'python copy_pics.py canon' to execute script\n")
 	exit()
 
